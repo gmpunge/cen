@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Bienvenue au',
-  name: 'CentreÉvangéliqueNéhémie',
+  name: 'Centre Évangélique Néhémie',
   subtitle: "Faisons le possible, laissons l'impossible à Dieu",
   cta: '',
 };
@@ -19,11 +19,16 @@ export const heroData = {
 export const aboutData = {
   img: 'centreevangeliqeunehemie.jpeg',
   paragraphOne:
-    'Nous croyons en Dieu sa Parole et sa création son dessein rédempteur en Christ pour le monde et sa présence par le Saint-Esprit',
+    'Dieu : sa Parole, sa création, son plan rédempteur pour le monde en Christ et sa présence par le Saint-Esprit. ',
   paragraphTwo:
-    'Nous apprécions les églises locales du monde entier qui sont marquées par une saine doctrine, le culte pentecôtiste, le ministère de chaque membre, des relations aimantes, une évangélisation par le Saint-Esprit, une proclamation ointe et une expression pratique de la foi chrétienne.',
+    'Ceux et celles qui vivent sans Christ et à qui nous devons la compassion de Christ et une occasion de recevoir le salut et d’entrer dans la fraternité chrétienne.  ',
+
   paragraphThree:
-    'Nous apprécions une fraternité coopérative qui améliore la capacité de léglise à remplir son mandat, à travers un leadership serviteur, une vision partagée, des structures flexibles et une mobilisation stratégique de ses ressources.',
+    'Chaque croyant à titre individuel et son engagement envers Christ, le baptême dans le Saint-Esprit, le discipulat, la vie de famille chrétienne et l’accomplissement de la volonté de Dieu.  ',
+  paragraphFour:
+    'Les églises locales qui, partout dans le monde, sont caractérisées par la saine doctrine, une adoration pentecôtiste, le ministère de chaque membre, des relations fondées sur l’amour, une évangélisation par la puissance du Saint-Esprit, une proclamation sous son onction et une expression pratique de la foi chrétienne.',
+  paragraphFive:
+    'La collaboration dans la fraternité afin de favoriser la capacité de l’église à remplir son mandat, par un leadership animé d’un esprit de service, une vision partagée, des structures flexibles et une mobilisation stratégique de ses ressources.',
   resume: 'https://paoc.org/fr/famille/qui-nous-sommes/présentation', // if no resume, the button will not show up
 };
 
